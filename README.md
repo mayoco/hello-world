@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi world!
+GitHub looks cute! Though I don't know what it will bring to me!
